@@ -1,0 +1,14 @@
+body {
+ margin: 0;
+ padding: 0;
+ background-color: #F2F4F5;
+ color: black;
+ font-family: 'Courier New', Courier, monospace;
+
+}
+
+#root {
+  margin: 0 24px;
+  position: relative;
+  min-height: 100vh;
+}
