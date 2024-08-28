@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/ToDo-React/static/css/main.c590843f.css",
-    "main.js": "/ToDo-React/static/js/main.d09c63a6.js",
-    "static/media/dislike.svg": "/ToDo-React/static/media/dislike.5951dfd2bc8525449a20ccb33db5f610.svg",
-    "static/media/like.svg": "/ToDo-React/static/media/like.7651b2e4c7d272ecb89855730bd99b55.svg",
-    "index.html": "/ToDo-React/index.html",
-    "static/media/delete.svg": "/ToDo-React/static/media/delete.7018c4465589031bd51c8efbe21df9ca.svg",
-    "static/media/check.svg": "/ToDo-React/static/media/check.e9a948bba52a34123d2ed7aeda0ea495.svg",
-    "main.c590843f.css.map": "/ToDo-React/static/css/main.c590843f.css.map",
-    "main.d09c63a6.js.map": "/ToDo-React/static/js/main.d09c63a6.js.map"
+    "main.css": "/home/pc-4/curso-react-intro/build/static/css/main.3dafcf1e.css",
+    "main.js": "/home/pc-4/curso-react-intro/build/static/js/main.82fb92be.js",
+    "static/media/dislike.svg": "/home/pc-4/curso-react-intro/build/static/media/dislike.5951dfd2bc8525449a20ccb33db5f610.svg",
+    "static/media/like.svg": "/home/pc-4/curso-react-intro/build/static/media/like.7651b2e4c7d272ecb89855730bd99b55.svg",
+    "index.html": "/home/pc-4/curso-react-intro/build/index.html",
+    "static/media/delete.svg": "/home/pc-4/curso-react-intro/build/static/media/delete.7018c4465589031bd51c8efbe21df9ca.svg",
+    "static/media/check.svg": "/home/pc-4/curso-react-intro/build/static/media/check.e9a948bba52a34123d2ed7aeda0ea495.svg",
+    "main.3dafcf1e.css.map": "/home/pc-4/curso-react-intro/build/static/css/main.3dafcf1e.css.map",
+    "main.82fb92be.js.map": "/home/pc-4/curso-react-intro/build/static/js/main.82fb92be.js.map"
   },
   "entrypoints": [
-    "static/css/main.c590843f.css",
-    "static/js/main.d09c63a6.js"
+    "static/css/main.3dafcf1e.css",
+    "static/js/main.82fb92be.js"
   ]
 }
