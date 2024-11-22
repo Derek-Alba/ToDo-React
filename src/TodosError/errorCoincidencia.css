@@ -31,7 +31,7 @@
     transform: translate(-50%, -60%);
     animation: pulse 2s infinite;
     overflow: hidden;
-    z-index: 10;
+    z-index: 1;
   }
   
   .orwellian-container .pupil {

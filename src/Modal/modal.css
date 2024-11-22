@@ -1,8 +1,9 @@
 #modal {
-    z-index: 100;
+    z-index: 1000;
 }
 
 .modal {
+
     display: flex;
     justify-content: center;
     align-items: center;
